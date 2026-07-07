@@ -1,4 +1,4 @@
-👋 Hi! I'm Andrea Oliveira
+👋 Hi! I'm Andrea
 
 
 I am a Data Engineer passionate about building reliable end-to-end data pipelines,
