@@ -24,7 +24,7 @@ End-to-end Data Engineering pipeline built with
 Apache Airflow, PostgreSQL, Docker and Apache Superset.
 
 <p align="left">
-  <img src="Architecture.png" alt="Weather Forecast Analytics Architecture" width="750">
+  <img src="Architecture.png" alt="Weather Forecast Analytics Architecture" width="950">
 </p>
 
 -----------------------------------
