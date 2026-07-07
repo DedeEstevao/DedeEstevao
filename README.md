@@ -13,7 +13,6 @@ Data Engineer
 🐘 PostgreSQL
 🐳 Docker
 📊 Superset
-📈 Power BI
 
 -----------------------------------
 
