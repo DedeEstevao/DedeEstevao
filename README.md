@@ -1,4 +1,4 @@
-👋 I'm Andrea Oliveira
+👋 Hi! I'm Andrea Oliveira
 
 Data Engineer
 
