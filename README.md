@@ -20,7 +20,7 @@ Data Engineer
 
 🌤 Weather Forecast Analytics
 
-<p align="center">
+<p align="left">
   <img src="Architecture.png" alt="Weather Forecast Analytics Architecture" width="650">
 </p>
 
